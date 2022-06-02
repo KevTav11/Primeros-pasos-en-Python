@@ -2,7 +2,7 @@
 
 En esta sesion se realizaron algunas practicas basicas desde imprimir un "Hola mundo" hasta usar condicionales.
 
-![Logo de Python](Imagenes\Logo-Python.png)
+![Logo de Python](https://github.com/KevTav11/Primeros-pasos-en-Python-/blob/main/Imagenes/Logo-Python.png)
 
 **Materiales que yo utilice**
 
